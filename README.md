@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Umaima 👋
 
-<!--
-**umaimaxy-blip/umaimaxy-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SEO Specialist & Web Tool Builder from Pakistan.
 
-Here are some ideas to get you started:
+## 🚀 Creator of UT2MP3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**UT2MP3** is a fast and free online YouTube to MP3 converter that helps users convert YouTube videos into high-quality MP3 audio without installing any software.
+
+🌐 Website: https://ut2mp3.com/
+
+## 💼 Skills
+
+- SEO
+- WordPress
+- HTML
+- CSS
+- JavaScript
+- Content Marketing
+
+## 📫 Connect
+
+🌐 https://ut2mp3.com/
